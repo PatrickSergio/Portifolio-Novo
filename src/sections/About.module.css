@@ -1,0 +1,21 @@
+.about {
+  
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+   
+    width: 95%;
+}
+
+.about h1{
+    text-align: left;
+}
+
+.timelineContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    align-items: center;
+    width: 100%;
+    
+}

@@ -1,0 +1,45 @@
+.navbar {
+    display: flex;
+    justify-content:space-around;
+    padding: 2em;
+    padding-left: 8em;
+    text-align: center;
+
+    
+
+}
+
+
+.navbar ul {
+    display: flex;
+    list-style: none;
+    align-items: center;
+    margin-left: 10%;
+    
+    
+
+}
+
+.navbar li {
+    margin: 20px;
+    font-size: 25px;
+    transition: color 0.3s ease;
+
+    
+}
+
+.navbar li:hover {
+    
+    transform: translateY(-3px);
+    color: #0077b5;
+    cursor: pointer;
+    
+}
+
+.navbar a {
+    color: aliceblue !important;
+    text-decoration: none;
+    cursor: pointer;
+
+
+}

@@ -1,0 +1,13 @@
+.projects h1{
+    font-size: 50px;
+    text-align: start;
+    margin: 5%;
+}
+
+.projects div{
+    display:inline-flex;
+    flex-wrap: wrap;
+    border-radius: 10px 0px 10px 0px transparent;
+    width: 40%;
+    
+}

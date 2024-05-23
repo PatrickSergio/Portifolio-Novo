@@ -1,0 +1,21 @@
+.presentation {
+    text-align: left;
+    margin-left: 10%;
+    font-size: 20px;
+}
+
+.presentation h1 {
+    font-size: 50px;
+}
+
+
+
+.presentation p {
+    font-weight: bolder;
+
+
+}
+
+.word {
+    background-color: rgb(0, 0, 0, 0.3);
+}
