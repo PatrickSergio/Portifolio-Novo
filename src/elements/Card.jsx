@@ -17,7 +17,7 @@ function Card({ title, description, img, site }) {
           
 
             <ButtonA
-            site='https://projetolp1dnc.netlify.app' text='Ver'></ButtonA>
+            site={site} text='Ver'></ButtonA>
 
 
         </div>
