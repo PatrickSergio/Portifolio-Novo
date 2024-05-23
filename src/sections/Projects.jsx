@@ -26,7 +26,7 @@ function Projects()
                 title='Consumo de API'
                 description='Projeto de Consumo de API com consulta de cep e clima'
                 img={api}
-                site='https://projetolp1dnc.netlify.app/'>
+                site='https://segundodesafiodnc.netlify.app'>
                 
                 
                 </Card> 
@@ -36,7 +36,7 @@ function Projects()
                 title='Portifólio'
                 description='Projeto de Portifólio feito com React'
                 img={portifolio}
-                site='https://projetolp1dnc.netlify.app/'>
+                site='https://portifolio-lemon-eta.vercel.app/'>
                 
                 
                 </Card> 
@@ -46,7 +46,7 @@ function Projects()
                 title='LP - Arquitetura'
                     description='Projeto de uma Landing Page de arquitetura para DNC'
                 img={arquitetura}
-                site='https://projetolp1dnc.netlify.app/'>
+                site='https://desafio-landing-arquitetura-dnc.netlify.app'>
                 
                 
                 </Card> 
